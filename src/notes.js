@@ -1,3 +1,5 @@
-const notes = []
+// Berkas Notes
 
-module.exports = notes
+const notes = [];
+
+module.exports = notes;
