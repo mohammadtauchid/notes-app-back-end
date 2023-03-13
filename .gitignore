@@ -1,1 +1,9 @@
+# node modules
 node_modules
+
+# key
+*.pem
+
+# environment
+.env
+.prod-env
